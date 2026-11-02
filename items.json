@@ -1,0 +1,138 @@
+{
+  "patch": "26.21 (대조 미완료)",
+  "status": "partial",
+  "source": "나무위키 문서에서 기존 작업 중 일부 대조",
+  "checked_count": 16,
+  "items": [
+    {
+      "name": "빛나는 티끌",
+      "price": 250,
+      "stats": {
+        "ah": 5
+      },
+      "kind": "기본"
+    },
+    {
+      "name": "요정의 부적",
+      "price": 200,
+      "stats": {
+        "manaregen": 50
+      },
+      "kind": "기본"
+    },
+    {
+      "name": "단검",
+      "price": 250,
+      "stats": {
+        "as": 10
+      },
+      "kind": "기본"
+    },
+    {
+      "name": "천 갑옷",
+      "price": 300,
+      "stats": {
+        "armor": 15
+      },
+      "kind": "기본"
+    },
+    {
+      "name": "원기 회복의 구슬",
+      "price": 300,
+      "stats": {
+        "hpregen": 100
+      },
+      "kind": "기본"
+    },
+    {
+      "name": "사파이어 수정",
+      "price": 300,
+      "stats": {
+        "mana": 250
+      },
+      "kind": "기본"
+    },
+    {
+      "name": "롱소드",
+      "price": 350,
+      "stats": {
+        "ad": 10
+      },
+      "kind": "기본"
+    },
+    {
+      "name": "증폭의 고서",
+      "price": 400,
+      "stats": {
+        "ap": 20
+      },
+      "kind": "기본"
+    },
+    {
+      "name": "루비 수정",
+      "price": 400,
+      "stats": {
+        "hp": 150
+      },
+      "kind": "기본"
+    },
+    {
+      "name": "마법무효화의 망토",
+      "price": 450,
+      "stats": {
+        "mr": 25
+      },
+      "kind": "기본"
+    },
+    {
+      "name": "민첩성의 망토",
+      "price": 600,
+      "stats": {
+        "crit": 15
+      },
+      "kind": "기본"
+    },
+    {
+      "name": "방출의 마법봉",
+      "price": 850,
+      "stats": {
+        "ap": 45
+      },
+      "kind": "기본"
+    },
+    {
+      "name": "곡괭이",
+      "price": 875,
+      "stats": {
+        "ad": 25
+      },
+      "kind": "기본"
+    },
+    {
+      "name": "쓸데없이 큰 지팡이",
+      "price": 1200,
+      "stats": {
+        "ap": 65
+      },
+      "kind": "기본"
+    },
+    {
+      "name": "B.F. 대검",
+      "price": 1300,
+      "stats": {
+        "ad": 40
+      },
+      "kind": "기본"
+    },
+    {
+      "name": "사라진 양피지",
+      "price": 1200,
+      "stats": {
+        "ap": 40,
+        "mana": 300,
+        "ah": 10
+      },
+      "kind": "서사"
+    }
+  ]
+}
